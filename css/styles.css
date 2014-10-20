@@ -1,0 +1,23 @@
+.jumbotron {
+	margin-bottom: 0px;	
+}
+.nav-tabs{
+}
+.nav {
+	margin-bottom: 10px;
+}
+.center-menu{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+.left-menu{
+	float: left;
+	padding-top: 150px;
+	width: 200px
+}
+.btn-group-vertical{
+	width: 186px;
+}
+.right-menu{
+	float: right;
+}
